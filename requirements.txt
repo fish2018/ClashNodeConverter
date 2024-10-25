@@ -1,0 +1,4 @@
+requests==2.27.1
+requests-html==0.10.0
+lxml_html_clean==0.2.1
+pyppeteer==2.0.0
